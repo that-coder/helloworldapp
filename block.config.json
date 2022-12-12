@@ -1,0 +1,8 @@
+{
+  "name": "helloworldapp",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/that-coder/helloworldapp",
+    "ssh": "git@github.com:that-coder/helloworldapp.git"
+  }
+}
